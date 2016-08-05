@@ -1,6 +1,9 @@
 # ignore log files
-*.log$
+logs/
 
 # ignore venv
 venv/
+
+# requirement
+requirement
 
