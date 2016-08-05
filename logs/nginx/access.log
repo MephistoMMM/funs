@@ -1,0 +1,7 @@
+133.130.118.45 - - [05/Aug/2016:09:12:39 +0000] "GET / HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/601.5.17 (KHTML, like Gecko) Version/9.1 Safari/601.5.17" "-"
+54.209.231.248 - - [05/Aug/2016:09:12:55 +0000] "GET / HTTP/1.1" 200 12 "-" "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)" "-"
+209.9.106.252 - - [05/Aug/2016:09:13:08 +0000] "GET / HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36" "-"
+209.9.106.252 - - [05/Aug/2016:09:13:10 +0000] "GET /favicon.ico HTTP/1.1" 404 233 "http://115.159.155.229:2333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36" "-"
+209.9.106.252 - - [05/Aug/2016:09:13:21 +0000] "GET / HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36" "-"
+209.9.106.252 - - [05/Aug/2016:09:13:48 +0000] "GET / HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36" "-"
+36.23.165.82 - - [05/Aug/2016:10:02:10 +0000] "GET / HTTP/1.1" 200 12 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13F69 Safari/601.1" "-"
