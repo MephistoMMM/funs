@@ -1,0 +1,7 @@
+# ignore log files
+*.log
+
+# ignore venv
+venv/*
+
+
