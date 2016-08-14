@@ -30,7 +30,7 @@ git clone https://GitHub.com/MephistoMMM/funs.git
 ./init.sh  # this script will create logs directories tree
 ```
 
-* Add your app files into funs, (**it should include a virtual env named `venv`**), install all dependences:
+* Add your app files into funs, (**it should use virtual env**), install all dependences:
 
 *I hope your virtualenv is installed by pip3*
 
