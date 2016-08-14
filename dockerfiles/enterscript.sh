@@ -3,6 +3,9 @@
 # You should write your project start logs in project_start.sh.
 #
 # Author: Mephis Pheies <mephistommm@gmail.com>
+# Copyright (c) 2016, Mephis Pheies.
+# License: MIT see LICENSE for more details
+#
 # Begin ---
 
 bash -c ./funs_start.sh

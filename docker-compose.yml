@@ -1,5 +1,5 @@
-test:
-  image: funs
+funs:
+  image: mpsss/funs
   volumes:
     # config files
     - ./configs/nginx_conf.d:/etc/nginx/conf.d

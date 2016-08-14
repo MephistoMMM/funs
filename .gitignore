@@ -3,7 +3,3 @@ logs/
 
 # ignore venv
 venv/
-
-# requirement
-requirement
-

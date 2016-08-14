@@ -2,6 +2,9 @@
 # This file init create the base directory of funs
 # 
 # Author: Mephis Pheies <mephistommm@gmail.com>
+# Copyright (c) 2016, Mephis Pheies.
+# License: MIT see LICENSE for more details
+#
 # Begin ---
 
 mkdir -p logs/nginx  logs/supervisor logs/uwsgi
