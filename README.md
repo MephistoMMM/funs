@@ -57,6 +57,8 @@ docker build -t mpsss/funs .
 cd ..
 ```
 
+ps: you should make the version of python3 on host be same as that of python3 in docker. (it is 3.4.3 which the python3 version in dockerhub)
+
 ## License
 
 MIT
