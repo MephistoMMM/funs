@@ -29,17 +29,7 @@ Log files are all under the **logs** directory and divided by soft name, but the
 git clone https://GitHub.com/MephistoMMM/funs.git
 ```
 
-* Add your app files into funs, (**it should use virtual env**), install all dependences:
-
-*I hope your virtualenv is installed by pip3*
-
-```
-...
-virtualenv ./venv
-source ./venv/bin/activate
-pip3 install  -r ./requirements.md
-deactivate
-```
+* Add your app files into funs, there should be a `requirements.md` file which records the dependences package of project.
 
 * Change flask entry file name under `./configs/nginx_conf.d/default.conf` and `./configs/uwsgi_conf.d/config.ini`. (default: `app.py`)
 

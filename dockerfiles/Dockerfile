@@ -7,7 +7,8 @@ ENV REBUILD_DAY 05.08.2016
 RUN apt-get update && apt-get install -y \
     python3 python3-pip \
     supervisor \
-    && pip3 install uwsgi
+    && pip3 install uwsgi \
+    && pip3 install virtualenv
 
 # create project directory
 RUN mkdir -p /opt/project /var/log/project
@@ -26,6 +27,8 @@ EXPOSE 80
 VOLUME /opt/project /etc/nginx/conf.d /etc/supervisor/conf.d /etc/uwsgi/conf.d
 # volume all log path
 VOLUME /var/log/nginx /var/log/supervisor /var/log/project
+
+ENV ENTER_UPDATE_DAY 12.06.2017
 
 COPY ./enterscript.sh /root/
 WORKDIR /opt/project

@@ -3,3 +3,4 @@
 
 # ignore venv
 venv/
+env/

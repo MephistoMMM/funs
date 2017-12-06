@@ -8,6 +8,8 @@
 #
 # Begin ---
 
+# create venv and then install requirements 
+
 bash -c ./funs_start.sh
 # start supervisor service
 service supervisor start > /dev/null 2>&1

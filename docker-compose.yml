@@ -8,9 +8,9 @@ funs:
     # project
     - .:/opt/project
     # logs
-    - ./logs/project:/var/log/project
-    - ./logs/nginx:/var/log/nginx
-    - ./logs/supervisor:/var/log/supervisor
+    - ./funsvar/logs/project:/var/log/project
+    - ./funsvar/logs/nginx:/var/log/nginx
+    - ./funsvar/logs/supervisor:/var/log/supervisor
   ports:
     - "2333:80"
 
